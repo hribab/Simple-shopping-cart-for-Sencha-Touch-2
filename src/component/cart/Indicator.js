@@ -3,7 +3,6 @@
  * @name Indicator for Simple Cart 
  * @fileOverview Shopping cart indicator. Ext.Button based component 
  *  with extra badge for displaying total sum
- * 
  * @author Constantine V. Smirnov kostysh(at)gmail.com
  * @date 20120628
  * @license GNU GPL v3.0
